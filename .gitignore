@@ -21,3 +21,14 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+### Python / notebooks ###
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+*.gguf
+*.safetensors
+outputs/
+logs/
+pdfs/
