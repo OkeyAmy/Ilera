@@ -23,7 +23,7 @@ training data, which humans then review.
 | Step | Notebook | Runs on | Output (Hugging Face dataset `ilera-data`) |
 |---|---|---|---|
 | 1. Extract the Standing Orders | [`01_extract`](notebooks/01_extract.ipynb) | Kaggle CPU | `raw/chunks.jsonl`: 524 section-aware chunks with citations |
-| 1b. Baseline: can raw N-ATLaS find the right reference? | [`01b_base_reference_eval`](notebooks/01b_base_reference_eval.ipynb) | Kaggle T4 x2 (raw float16 needs ~17 GB GPU) | `results/base_reference_summary_raw_fp16.csv`: closed-book, with-index and multiple-choice section accuracy of the unmodified model |
+| 1b. Baseline: can raw N-ATLaS find the right reference? | [`01b_base_reference_eval`](notebooks/01b_base_reference_eval.ipynb) | Colab free T4 or Kaggle T4 x2 (raw fp16; layers spill to CPU/RAM) | local `results/base_reference_summary_raw_fp16.csv` (nothing uploaded): closed-book, with-index and multiple-choice section accuracy of the unmodified model |
 | 2. Draft Q&A and case vignettes | [`02_draft`](notebooks/02_draft.ipynb) | Kaggle T4 | `drafts/review_en_*.csv` for human review |
 | 3. Human review | Google Sheets | team | `reviewed/review_en_final.csv` |
 | 4. Translate to Hausa / Yoruba | [`03_translate`](notebooks/03_translate.ipynb) | Kaggle T4 | `translations/review_ha_yo_*.csv` with quality flags |
@@ -41,6 +41,11 @@ Every notebook has a smoke-test mode, resumes after a crash, and was tested offl
 
 ## Evaluation design
 
+* **Base-model baseline of record** (`01b`, unmodified N-ATLaS, Kaggle T4 x2, fp16, n=40 per task):
+  closed-book section number **2.5%**, with-index **15%** number / **20%** title, MCQ **77.5%**
+  (chance 25%) — the floor every fine-tuned number is measured against. In `04_eval`, the run called
+  `baseline` is the same unmodified weights scored on the frozen benchmark; all paired-bootstrap
+  comparisons are against it.
 * **Ilera-Bench**: 600+ human-checked items (300 English, 150 Hausa, 150 Yoruba, parallel across
   languages) plus a ~60-item *unseen-section probe*, frozen with a SHA-256 hash **before** training.
 * **External test**: 300 multiple-choice items from [AfriMed-QA](https://github.com/intron-innovation/AfriMed-QA)
