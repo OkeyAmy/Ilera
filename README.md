@@ -23,7 +23,7 @@ training data, which humans then review.
 | Step | Notebook | Runs on | Output (Hugging Face dataset `ilera-data`) |
 |---|---|---|---|
 | 1. Extract the Standing Orders | [`01_extract`](notebooks/01_extract.ipynb) | Kaggle CPU | `raw/chunks.jsonl`: 524 section-aware chunks with citations |
-| 1b. Baseline: can raw N-ATLaS find the right reference? | [`01b_base_reference_eval`](notebooks/01b_base_reference_eval.ipynb) | Colab T4 + Google Drive | `results/base_reference_summary.csv`: closed-book, with-index and multiple-choice section accuracy |
+| 1b. Baseline: can raw N-ATLaS find the right reference? | [`01b_base_reference_eval`](notebooks/01b_base_reference_eval.ipynb) | Kaggle T4 x2 (raw float16 needs ~17 GB GPU) | `results/base_reference_summary_raw_fp16.csv`: closed-book, with-index and multiple-choice section accuracy of the unmodified model |
 | 2. Draft Q&A and case vignettes | [`02_draft`](notebooks/02_draft.ipynb) | Kaggle T4 | `drafts/review_en_*.csv` for human review |
 | 3. Human review | Google Sheets | team | `reviewed/review_en_final.csv` |
 | 4. Translate to Hausa / Yoruba | [`03_translate`](notebooks/03_translate.ipynb) | Kaggle T4 | `translations/review_ha_yo_*.csv` with quality flags |
