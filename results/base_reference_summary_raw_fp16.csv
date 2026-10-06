@@ -1,0 +1,6 @@
+task,metric,accuracy,ci_low,ci_high,n,chance
+closed_book,number_ok,0.01,0.0,0.029,105,0.007
+closed_book,title_ok,0.01,0.0,0.029,105,0.007
+index,number_ok,0.091,0.048,0.133,165,0.007
+index,title_ok,0.17,0.109,0.23,165,0.007
+mcq,mcq_ok,0.752,0.685,0.818,165,0.25

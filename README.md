@@ -51,6 +51,24 @@ Every notebook has a smoke-test mode, resumes after a crash, and was tested offl
 * **Leak control**: no benchmark item, translation of one, probe-section text or near-duplicate
   question (RapidFuzz ≥ 85) enters training.
 
+## Baseline: raw N-ATLaS before fine-tuning
+
+`NCAIR1/N-ATLaS` loaded **as released** (float16, no quantisation, no fine-tuning) on a Kaggle
+T4 x2, asked to find the Standing Orders reference for every part of the CHEW document
+([`01b_base_reference_eval`](notebooks/01b_base_reference_eval.ipynb), 6 Oct 2026; data in
+[`results/`](results)):
+
+| Test | Accuracy [95% CI] | Chance |
+|---|---|---|
+| Closed book: section number for a topic (105 items) | **1.0%** [0.0, 2.9] | 0.7% |
+| Excerpt + table of contents → section number (165 items) | **9.1%** [4.8, 13.3] (right title 17.0%) | 0.7% |
+| Excerpt → right section among 4 options (165 items) | **75.2%** [68.5, 81.8] | 25% |
+
+The base model understands Standing Orders content well, but cannot produce the correct reference
+on its own, even with the table of contents in front of it. Ilera-ATLAS therefore (1) trains on
+answers that always end with the exact `SOURCE:` section and (2) is evaluated with the cited section
+as a metric (`source_ok`), with retrieval of the matching chunk as the planned stretch.
+
 ## Serving (free tiers)
 
 * **GPU API**: [`serve/modal_app.py`](serve/modal_app.py), vLLM on one L4, scales to zero (Modal free credits).

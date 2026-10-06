@@ -1,0 +1,435 @@
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.1.1", "answer": "Section 2.1", "gold": "1.1.1 IMMEDIATE CARE OF THE NEWBORN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.2", "answer": "Section 8", "gold": "1.2 NEWBORN WITHOUT ANY COMPLAINT- THE WELL CHILD", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3", "answer": "Section 22", "gold": "1.3 NEWBORN EMERGENCIES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3.1", "answer": "Section 2.1", "gold": "1.3.1 DIFFICULT BREATHING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3.2", "answer": "Section 2.1", "gold": "1.3.2 CONDITIONS AFFECTING HANDS AND FEET", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3.3", "answer": "Section 2.1", "gold": "1.3.3 CONDITIONS AFFECTING UMBILICAL CORD", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3.4", "answer": "Section 2.1.6", "gold": "1.3.4 OTHER BLEEDING PROBLEMS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3.5", "answer": "Section 2.1", "gold": "1.3.5 CONDITIONS AFFECTING THE HEAD", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3.7", "answer": "Section 2.1", "gold": "1.3.7 CONDITIONS AFFECTING BABY’S BREAST", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3.8", "answer": "Section 2.1", "gold": "1.3.8 CONDITIONS AFFECTING THE ANUS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3.10", "answer": "Section 2.1", "gold": "1.3.10 CONDITIONS AFFECTING THE SKIN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3.12", "answer": "Section 15", "gold": "1.3.12 DIARRHOEA AND VOMITING IN NEWBORN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.3.13", "answer": "Section 2.1.2", "gold": "1.3.13 SEVERELY ILL BABY", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.4", "answer": "Section 17", "gold": "1.4 NEWBORN ABNORMALITIES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.5", "answer": "Section 2.1", "gold": "1.5 ORAL HEALTH", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-1.36", "answer": "Section 2.1", "gold": "1.36 CONDITIONS AFFECTING THE EYES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.1", "answer": "Section 2.1", "gold": "2.1 CHILD’S FIRST VISIT", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.2", "answer": "Section 17", "gold": "2.2 HEALTHY CHILD", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.3", "answer": "Section 2", "gold": "2.3 FEVER", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.4", "answer": "Section 2", "gold": "2.4 CONVULSION", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.5", "answer": "Section 2.1", "gold": "2.5 COUGH/DIFFICULT BREATHING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.6", "answer": "Section 5.2", "gold": "2.6 DIARRHOEA", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.7", "answer": "Section 2.1", "gold": "2.7 VOMITING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.8", "answer": "Section 2", "gold": "2.8 PALLOR", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.9", "answer": "Section 2.1", "gold": "2.9 JAUNDICE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.10", "answer": "Section 2.1", "gold": "2.10 MALNUTRITION", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.11", "answer": "Section 2.1", "gold": "2.11 HIV/AIDS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.13", "answer": "Section 2.1", "gold": "2.13 SKIN DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.14", "answer": "Section 2.1", "gold": "2.14 OEDEMA", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.15", "answer": "Section 2.1", "gold": "2.15 BURNS AND SCALDS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.16", "answer": "Section 2.1", "gold": "2.16 WOUNDS, VARIOUS BITES, SPRAINS AND FRACTURES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.16.1", "answer": "Section 2", "gold": "2.16.1 WOUNDS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.16.2", "answer": "Section 2", "gold": "2.16.2 VARIOUS BITES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.16.3", "answer": "Section 2.1", "gold": "2.16.3 SPRAINS, STRAINS AND FRACTURES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.17", "answer": "Section 2.1", "gold": "2.17 DISORDERS AFFECTING THE HEAD", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.18", "answer": "Section 22", "gold": "2.18 NECK DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.19", "answer": "Section 17", "gold": "2.19 EYE DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.20", "answer": "Section 22", "gold": "2.20 EAR, NOSE AND THROAT DISORDER", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.21", "answer": "Section 17", "gold": "2.21 ORAL HEALTH DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.22", "answer": "Section 2.1.2", "gold": "2.22 CHEST/HEART DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.23", "answer": "Section 2", "gold": "2.23 ABDOMINAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.24", "answer": "Section 22", "gold": "2.24 HERNIA", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.25", "answer": "Section 18", "gold": "2.25 SEXUAL ASSAULT/ RAPE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.26", "answer": "Section 22", "gold": "2.26 ANAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.27", "answer": "Section 2.1", "gold": "2.27 WORM INFESTATION", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.28", "answer": "Section 22", "gold": "2.28 URINARY AND GENITAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.29", "answer": "Section 2", "gold": "2.29 ARMS AND LEGS DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.30", "answer": "Section 2.1.5", "gold": "2.30 CHANGES IN ALERTNESS AND BEHAVIOUR", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.31", "answer": "Section 2.1", "gold": "2.31 POISONING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.32", "answer": "Section 2", "gold": "2.32 EMERGENCY CONDITIONS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.33", "answer": "Section 2.1", "gold": "2.33 HIGH RISK GROUPS (ORPHANS AND VULNERABLE CHILDREN)", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-2.34", "answer": "Section 2.1", "gold": "2.34 SCHOOL HEALTH SERVICES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.1", "answer": "Section 2.1", "gold": "3.1 CHILD FIRST VISIT", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.4", "answer": "Section 2", "gold": "3.4 COUGH", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.7", "answer": "Section 2", "gold": "3.7 HEADACHE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.9", "answer": "Section 2.1", "gold": "3.9 YELLOWISH EYES (JAUNDICE)", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.10", "answer": "Section 2.1", "gold": "3.10 NUTRITIONAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.11", "answer": "Section 2.1", "gold": "3.11 MEASLES-TYPE RASH", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.12", "answer": "Section 2.1", "gold": "3.12 SKIN DISEASES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.15", "answer": "Section 2", "gold": "3.15 WOUNDS, SORES, ULCERS, FRACTURES AND", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.16", "answer": "Section 2.1", "gold": "3.16 HEAD DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.19", "answer": "Section 17", "gold": "3.19 EAR, NOSE AND THROAT DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.20", "answer": "Section 17", "gold": "3.20 ORAL HEALTH PROBLEMS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.22", "answer": "Section 22", "gold": "3.22 ABDOMINAL DISORDERS (INCLUDING HERNIAS)", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.26", "answer": "Section 22", "gold": "3.26 ARM AND LEG DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-3.30", "answer": "Section 18", "gold": "3.30 SEXUALITY EDUCATION", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.1", "answer": "Section 17", "gold": "4.1 ADOLESCENTS CONCERNS ABOUT PUBERTY", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.3", "answer": "Section 18", "gold": "4.3 CONTRACEPTIVE CHOICE FOR ADOLESCENTS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.4", "answer": "Section 2.1.5", "gold": "4.4 SEXUAL DYSFUNCTIONS/MALFUNCTIONS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.5", "answer": "Section 22", "gold": "4.5 GENITO-URINARY TRACT DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.6", "answer": "Section 2.1", "gold": "4.6 ABORTION", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.7.1", "answer": "Section 17", "gold": "4.7.1 NUTRITION DISORDERS OF ADOLESCENT", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.7.2", "answer": "Section 2.1", "gold": "4.7.2 DRUG AND SUBSTANCE ABUSE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.7.3", "answer": "Section 2.1", "gold": "4.7.3 ALCOHOLISM", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.8", "answer": "Section 17", "gold": "4.8 MENTAL HEALTH DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.9", "answer": "Section 2.1", "gold": "4.9 VIOLENCE ASSAULTIVE BEHAVIOURS AND SEXUAL ABUSE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.10.3", "answer": "Section 8", "gold": "4.10.3 HIV/AIDS (MANAGEMENT OF PATIENT)", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.11", "answer": "Section 2.1", "gold": "4.11 INJURIES, FRACTURES AND BITES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-4.12", "answer": "Section 2.1", "gold": "4.12 NECK DISORDERS/INJURIES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.1", "answer": "Section 2", "gold": "5.1 ADULT FIRST VISIT", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.4", "answer": "Section 22", "gold": "5.4 DIFFICULTY IN BREATHING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.7", "answer": "Section 2", "gold": "5.7 BODY PAIN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.8", "answer": "Section 22", "gold": "5.8 CHEST PAIN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.11", "answer": "Section 2", "gold": "5.11 WEIGHT LOSS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.15", "answer": "Section 2.1", "gold": "5.15 BURNS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.16", "answer": "Section 2.1", "gold": "5.16 WOUNDS, SORES, ULCERS, FRACTURES & BITES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.17", "answer": "Section 2", "gold": "5.17 HEAD INJURIES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.22", "answer": "Section 2.1", "gold": "5.22 CARDIOVASCULAR DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.23", "answer": "Section 2.1", "gold": "5.23 ABNORMAL BLOOD PRESSURE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.26", "answer": "Section 22", "gold": "5.26 GENITO-URINARY DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.27", "answer": "Section 17", "gold": "5.27 UPPER AND LOWER LIMBS DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-5.30", "answer": "Section 17", "gold": "5.30 MANAGEMENT OF HIV/AIDS PATIENTS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-6.1", "answer": "Section 2.1", "gold": "6.1 PRENATAL (ANTENATAL) CARE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-6.2", "answer": "Section 2.1", "gold": "6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-6.3", "answer": "Section 17", "gold": "6.3 POSTNATAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-6.4", "answer": "Section 17", "gold": "6.4 FAMILY PLANNING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-6.5", "answer": "Section 2.1", "gold": "6.5 INFERTILITY", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-6.6", "answer": "Section 2", "gold": "6.6 PRE-MENOPAUSE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-7.1", "answer": "Section 17", "gold": "7.1 MUSCULO - SKELETAL SYSTEM DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-7.2", "answer": "Section 2.1", "gold": "7.2 CARDIOVASCULAR SYSTEM DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-7.3", "answer": "Section 22", "gold": "7.3 GENITO- URINARY DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-7.4", "answer": "Section 2", "gold": "7.4 GASTROINTESTINAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-7.5", "answer": "Section 17", "gold": "7.5 SPECIFIC PROBLEMS OF THE ELDERLY", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-7.6", "answer": "Section 2.1", "gold": "7.6 MENTAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "closed_book", "doc": "CHEW", "id": "CB-CHEW-7.7", "answer": "Section 17", "gold": "7.7 ORAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.1.1-1", "answer": "Section 1.3.1 DIFFICULT BREATHING", "gold": "1.1.1 IMMEDIATE CARE OF THE NEWBORN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.1.1-1", "answer": "B. Section 1.", "gold": "1.1.1 IMMEDIATE CARE OF THE NEWBORN", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.1.1-2", "answer": "Section 1.37 Newborn Without Any Complaint - The Well Child", "gold": "1.1.1 IMMEDIATE CARE OF THE NEWBORN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.1.1-2", "answer": "C", "gold": "1.1.1 IMMEDIATE CARE OF THE NEWBORN", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.1.1-3", "answer": "Section 6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "gold": "1.1.1 IMMEDIATE CARE OF THE NEWBORN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.1.1-3", "answer": "D. Section 1.", "gold": "1.1.1 IMMEDIATE CARE OF THE NEWBORN", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.1.1-4", "answer": "Section 1.3.1 DIFFICULT BREATHING", "gold": "1.1.1 IMMEDIATE CARE OF THE NEWBORN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.1.1-4", "answer": "C. Section 2.", "gold": "1.1.1 IMMEDIATE CARE OF THE NEWBORN", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.2-1", "answer": "Section 1.37 Essential care for every baby in the first 90 minutes of life", "gold": "1.2 NEWBORN WITHOUT ANY COMPLAINT- THE WELL CHILD", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.2-1", "answer": "A. Section 1.", "gold": "1.2 NEWBORN WITHOUT ANY COMPLAINT- THE WELL CHILD", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3-1", "answer": "Section 1.3.2 Conditions affecting hands and feet", "gold": "1.3 NEWBORN EMERGENCIES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3-1", "answer": "B", "gold": "1.3 NEWBORN EMERGENCIES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3.1-1", "answer": "Section 1.3 Newborn emergencies", "gold": "1.3.1 DIFFICULT BREATHING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3.1-1", "answer": "D. Section 1.", "gold": "1.3.1 DIFFICULT BREATHING", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3.2-1", "answer": "Section 1.3.3 Conditions affecting the umbilical cord", "gold": "1.3.2 CONDITIONS AFFECTING HANDS AND FEET", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3.2-1", "answer": "C. Section 3.", "gold": "1.3.2 CONDITIONS AFFECTING HANDS AND FEET", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3.3-1", "answer": "Section 1.3.3 CONDITIONS AFFECTING UMBILICAL CORD", "gold": "1.3.3 CONDITIONS AFFECTING UMBILICAL CORD", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3.3-1", "answer": "C", "gold": "1.3.3 CONDITIONS AFFECTING UMBILICAL CORD", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3.4-1", "answer": "This excerpt is likely from Section 1.3.1 Conditions affecting the Head.", "gold": "1.3.4 OTHER BLEEDING PROBLEMS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3.4-1", "answer": "B. Section 2.4 CONVULSION", "gold": "1.3.4 OTHER BLEEDING PROBLEMS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3.5-1", "answer": "Section 1.3.8 CONDITIONS AFFECTING THE ANUS", "gold": "1.3.5 CONDITIONS AFFECTING THE HEAD", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3.5-1", "answer": "A. Section 1.", "gold": "1.3.5 CONDITIONS AFFECTING THE HEAD", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.36-1", "answer": "Section 1.3.7 CONDITIONS AFFECTING BABY'S BREAST", "gold": "1.36 CONDITIONS AFFECTING THE EYES", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.36-1", "answer": "C", "gold": "1.36 CONDITIONS AFFECTING THE EYES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3.7-1", "answer": "This excerpt appears to cover various sections related to different health issues and concerns across multiple age groups. However, it specifically mentions \"the anus,\" which is found under", "gold": "1.3.7 CONDITIONS AFFECTING BABY’S BREAST", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3.7-1", "answer": "D. Section 1.", "gold": "1.3.7 CONDITIONS AFFECTING BABY’S BREAST", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3.8-1", "answer": "Section 1. Immediate Care of the Newborn", "gold": "1.3.8 CONDITIONS AFFECTING THE ANUS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3.8-1", "answer": "B. Section 1.", "gold": "1.3.8 CONDITIONS AFFECTING THE ANUS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3.10-1", "answer": "Section 1.37 Conditions affecting baby's breast", "gold": "1.3.10 CONDITIONS AFFECTING THE SKIN", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3.10-1", "answer": "B. Section 2.", "gold": "1.3.10 CONDITIONS AFFECTING THE SKIN", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3.12-1", "answer": "This excerpt appears to be from Section 2.6 DIARRHOEA.", "gold": "1.3.12 DIARRHOEA AND VOMITING IN NEWBORN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3.12-1", "answer": "B. Section 2.", "gold": "1.3.12 DIARRHOEA AND VOMITING IN NEWBORN", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.3.13-1", "answer": "Section 2.13 SKIN DISORDERS", "gold": "1.3.13 SEVERELY ILL BABY", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.3.13-1", "answer": "C", "gold": "1.3.13 SEVERELY ILL BABY", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.4-1", "answer": "Section 1.3.12 Conditions affecting baby's breast", "gold": "1.4 NEWBORN ABNORMALITIES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.4-1", "answer": "C", "gold": "1.4 NEWBORN ABNORMALITIES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-1.5-1", "answer": "This excerpt is not directly linked to any specific section mentioned in the table of contents provided. However, it appears to be discussing health advice and education related to newborn", "gold": "1.5 ORAL HEALTH", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-1.5-1", "answer": "C", "gold": "1.5 ORAL HEALTH", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.1-1", "answer": "Section 1.3 NEWBORN EMERGENCIES", "gold": "2.1 CHILD’S FIRST VISIT", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.1-1", "answer": "B. Section 5.12 JAUNDICE", "gold": "2.1 CHILD’S FIRST VISIT", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.2-1", "answer": "Section 2.2 HEALTHY CHILD", "gold": "2.2 HEALTHY CHILD", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.2-1", "answer": "D. Section 2.", "gold": "2.2 HEALTHY CHILD", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.3-1", "answer": "Section 2.6 DIARRHOEA", "gold": "2.3 FEVER", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.3-1", "answer": "C. Section 2.", "gold": "2.3 FEVER", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.3-2", "answer": "Section 2.3 FEVER", "gold": "2.3 FEVER", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.3-2", "answer": "D. Section 2.", "gold": "2.3 FEVER", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.4-1", "answer": "Section 2.4 CONVULSION", "gold": "2.4 CONVULSION", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.4-1", "answer": "B", "gold": "2.4 CONVULSION", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.5-1", "answer": "Section 1.3.2 CONDITIONS AFFECTING HANDS AND FEET", "gold": "2.5 COUGH/DIFFICULT BREATHING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.5-1", "answer": "B", "gold": "2.5 COUGH/DIFFICULT BREATHING", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.6-1", "answer": "Section 2.6 DIARRHOEA", "gold": "2.6 DIARRHOEA", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.6-1", "answer": "D", "gold": "2.6 DIARRHOEA", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.6-2", "answer": "Section 2.10 MALNUTRITION", "gold": "2.6 DIARRHOEA", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.6-2", "answer": "C. Section 2.", "gold": "2.6 DIARRHOEA", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.7-1", "answer": "Section 2.23 ABDOMINAL DISORDERS", "gold": "2.7 VOMITING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.7-1", "answer": "B. Section 2.", "gold": "2.7 VOMITING", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.8-1", "answer": "Section 2.8 PALLOR", "gold": "2.8 PALLOR", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.8-1", "answer": "C", "gold": "2.8 PALLOR", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.9-1", "answer": "Section 2.10 MALNUTRITION", "gold": "2.9 JAUNDICE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.9-1", "answer": "B. Section 2.", "gold": "2.9 JAUNDICE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.10-1", "answer": "Section 2.6 DIARRHOEA", "gold": "2.10 MALNUTRITION", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.10-1", "answer": "D. Section 2.", "gold": "2.10 MALNUTRITION", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.11-1", "answer": "Section 6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "gold": "2.11 HIV/AIDS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.11-1", "answer": "C", "gold": "2.11 HIV/AIDS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.11-2", "answer": "Section 2.22 CHEST/HEART DISORDERS", "gold": "2.11 HIV/AIDS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.11-2", "answer": "D. Section 2.", "gold": "2.11 HIV/AIDS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.13-1", "answer": "Section 3.20 ORAL HEALTH PROBLEMS", "gold": "2.13 SKIN DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.13-1", "answer": "C", "gold": "2.13 SKIN DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.14-1", "answer": "This excerpt appears to be from various sections as it covers different topics such as newborn care, child health issues, and kidney disease. However, if we focus on", "gold": "2.14 OEDEMA", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.14-1", "answer": "D. Section 2.", "gold": "2.14 OEDEMA", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.15-1", "answer": "Section 5.15 Burns", "gold": "2.15 BURNS AND SCALDS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.15-1", "answer": "D", "gold": "2.15 BURNS AND SCALDS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.16-1", "answer": "Section 1 Immediate Care of the Newborn", "gold": "2.16 WOUNDS, VARIOUS BITES, SPRAINS AND FRACTURES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.16-1", "answer": "D. Section 2.", "gold": "2.16 WOUNDS, VARIOUS BITES, SPRAINS AND FRACTURES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.16.1-1", "answer": "This excerpt appears to be a combination of sections related to wound management and emergency care. It includes elements from:\n\n- Section 2.16 WOUNDS, V", "gold": "2.16.1 WOUNDS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.16.1-1", "answer": "B. Section 2.", "gold": "2.16.1 WOUNDS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.16.2-1", "answer": "Section 2.15 BURNS AND SCALDS", "gold": "2.16.2 VARIOUS BITES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.16.2-1", "answer": "B. Section 2.", "gold": "2.16.2 VARIOUS BITES", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.16.3-1", "answer": "Section 2.15 BURNS AND SCALDS", "gold": "2.16.3 SPRAINS, STRAINS AND FRACTURES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.16.3-1", "answer": "C", "gold": "2.16.3 SPRAINS, STRAINS AND FRACTURES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.17-1", "answer": "Section 6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "gold": "2.17 DISORDERS AFFECTING THE HEAD", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.17-1", "answer": "B", "gold": "2.17 DISORDERS AFFECTING THE HEAD", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.18-1", "answer": "Section 2.6 DIARRHOEA", "gold": "2.18 NECK DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.18-1", "answer": "D. Section 3.", "gold": "2.18 NECK DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.19-1", "answer": "Section 2.20 EAR, NOSE AND THROAT DISORDER", "gold": "2.19 EYE DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.19-1", "answer": "B. Section 7.", "gold": "2.19 EYE DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.19-2", "answer": "Section 1.37 Conditions affecting the ears", "gold": "2.19 EYE DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.19-2", "answer": "B. Section 7.", "gold": "2.19 EYE DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.20-1", "answer": "Section 1.3.7 CONDITIONS AFFECTING BABY'S BREAST", "gold": "2.20 EAR, NOSE AND THROAT DISORDER", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.20-1", "answer": "D. Section 2.", "gold": "2.20 EAR, NOSE AND THROAT DISORDER", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.20-2", "answer": "This excerpt does not appear to be directly related to any specific section listed in the table of contents provided. However, it discusses various aspects of oral health, prevention", "gold": "2.20 EAR, NOSE AND THROAT DISORDER", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.20-2", "answer": "C", "gold": "2.20 EAR, NOSE AND THROAT DISORDER", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.21-1", "answer": "Section 1.36 Conditions affecting the eyes", "gold": "2.21 ORAL HEALTH DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.21-1", "answer": "C", "gold": "2.21 ORAL HEALTH DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.22-1", "answer": "Section 2. General Examination of Child", "gold": "2.22 CHEST/HEART DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.22-1", "answer": "B. Section 2.", "gold": "2.22 CHEST/HEART DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.23-1", "answer": "This excerpt appears to be a combination of sections related to various medical conditions and treatments, but it does not fit perfectly into any one specific section. However, if", "gold": "2.23 ABDOMINAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.23-1", "answer": "B", "gold": "2.23 ABDOMINAL DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.24-1", "answer": "This excerpt appears to be from Section 6.5 INFERTILITY.", "gold": "2.24 HERNIA", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.24-1", "answer": "C", "gold": "2.24 HERNIA", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.25-1", "answer": "Section 2.25 SEXUAL ASSAULT/ RAPE", "gold": "2.25 SEXUAL ASSAULT/ RAPE", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.25-1", "answer": "D. Section 2.", "gold": "2.25 SEXUAL ASSAULT/ RAPE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.26-1", "answer": "Section 2.27 WORM INFESTATION", "gold": "2.26 ANAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.26-1", "answer": "D. Section 2.", "gold": "2.26 ANAL DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.27-1", "answer": "Section 2.27 WORM INFESTATION", "gold": "2.27 WORM INFESTATION", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.27-1", "answer": "D. Section 2.", "gold": "2.27 WORM INFESTATION", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.28-1", "answer": "This excerpt appears to be from various sections as it covers different symptoms and treatments for children and adults. However, if we focus on the specific information provided:\n\n1", "gold": "2.28 URINARY AND GENITAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.28-1", "answer": "D", "gold": "2.28 URINARY AND GENITAL DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.28-2", "answer": "Section 2.29 CHANGES IN ALERTNESS AND BEHAVIOUR", "gold": "2.28 URINARY AND GENITAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.28-2", "answer": "B. Section 4.", "gold": "2.28 URINARY AND GENITAL DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.29-1", "answer": "Section 7.5 Specific problems of the elderly", "gold": "2.29 ARMS AND LEGS DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.29-1", "answer": "B", "gold": "2.29 ARMS AND LEGS DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.30-1", "answer": "Section 5. Adult First Visit", "gold": "2.30 CHANGES IN ALERTNESS AND BEHAVIOUR", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.30-1", "answer": "V.", "gold": "2.30 CHANGES IN ALERTNESS AND BEHAVIOUR", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.31-1", "answer": "Section 3.28 POISONING", "gold": "2.31 POISONING", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.31-1", "answer": "C", "gold": "2.31 POISONING", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.32-1", "answer": "Section 1.3.2 Conditions affecting hands and feet", "gold": "2.32 EMERGENCY CONDITIONS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.32-1", "answer": "D. Section 2.32 EMERGENCY CONDITIONS", "gold": "2.32 EMERGENCY CONDITIONS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.33-1", "answer": "Section 2.11 HIV/AIDS", "gold": "2.33 HIGH RISK GROUPS (ORPHANS AND VULNERABLE CHILDREN)", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.33-1", "answer": "D", "gold": "2.33 HIGH RISK GROUPS (ORPHANS AND VULNERABLE CHILDREN)", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-2.34-1", "answer": "Section 2.2 HEALTHY CHILD", "gold": "2.34 SCHOOL HEALTH SERVICES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-2.34-1", "answer": "B. Section 2.", "gold": "2.34 SCHOOL HEALTH SERVICES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.1-1", "answer": "Section 2.2 HEALTHY CHILD", "gold": "3.1 CHILD FIRST VISIT", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.1-1", "answer": "D. Section 3.", "gold": "3.1 CHILD FIRST VISIT", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.2-1", "answer": "Section 2.2 HEALTHY CHILD", "gold": "3.2 FEVER", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.2-1", "answer": "C", "gold": "3.2 FEVER", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.2-2", "answer": "Section 7.2 GENITO- URINARY DISORDERS", "gold": "3.2 FEVER", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.2-2", "answer": "C", "gold": "3.2 FEVER", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.3-1", "answer": "Section 6.6 PRE-MENOPAUSE", "gold": "3.3 CONVULSION", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.3-1", "answer": "B", "gold": "3.3 CONVULSION", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.4-1", "answer": "Section 1.3.1 Difficult Breathing", "gold": "3.4 COUGH", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.4-1", "answer": "D", "gold": "3.4 COUGH", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.5-1", "answer": "Section 2.6 DIARRHOEA", "gold": "3.5 DIARRHOEA", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.5-1", "answer": "C. Section 3.", "gold": "3.5 DIARRHOEA", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.6-1", "answer": "Section 2.2 HEALTHY CHILD", "gold": "3.6 VOMITING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.6-1", "answer": "D. Section 3.", "gold": "3.6 VOMITING", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.7-1", "answer": "Section 6.5 INFERTILITY", "gold": "3.7 HEADACHE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.7-1", "answer": "D. Section 2.", "gold": "3.7 HEADACHE", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.8-1", "answer": "Section 2.8 PALLOR", "gold": "3.8 PALLOR", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.8-1", "answer": "C", "gold": "3.8 PALLOR", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.9-1", "answer": "Section 7.6 MENTAL DISORDERS", "gold": "3.9 YELLOWISH EYES (JAUNDICE)", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.9-1", "answer": "B. Section 3.", "gold": "3.9 YELLOWISH EYES (JAUNDICE)", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.10-1", "answer": "Section 2.26 ANAL DISORDERS", "gold": "3.10 NUTRITIONAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.10-1", "answer": "C", "gold": "3.10 NUTRITIONAL DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.11-1", "answer": "Section 2.32 EMERGENCY CONDITIONS", "gold": "3.11 MEASLES-TYPE RASH", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.11-1", "answer": "B. Section 3.", "gold": "3.11 MEASLES-TYPE RASH", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.12-1", "answer": "Section 6.4 Family Planning", "gold": "3.12 SKIN DISEASES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.12-1", "answer": "C", "gold": "3.12 SKIN DISEASES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.12-2", "answer": "Section 7.5 Specific problems of the elderly", "gold": "3.12 SKIN DISEASES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.12-2", "answer": "D. Section 2.", "gold": "3.12 SKIN DISEASES", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.13-1", "answer": "Section 7.6 MENTAL DISORDERS", "gold": "3.13 OEDEMA", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.13-1", "answer": "A. Section 3.", "gold": "3.13 OEDEMA", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.14-1", "answer": "Section 5.15 BURNS", "gold": "3.14 BURNS AND SCALDS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.14-1", "answer": "C", "gold": "3.14 BURNS AND SCALDS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.15-1", "answer": "Section 6.6 PRE-MENOPAUSE", "gold": "3.15 WOUNDS, SORES, ULCERS, FRACTURES AND", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.15-1", "answer": "D. Section 3.", "gold": "3.15 WOUNDS, SORES, ULCERS, FRACTURES AND", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.16-1", "answer": "This excerpt is from Section 5. Local Injury.", "gold": "3.16 HEAD DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.16-1", "answer": "B. Section 3.", "gold": "3.16 HEAD DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.17-1", "answer": "Section 2.18 NECK DISORDERS", "gold": "3.17 NECK DISORDERS", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.17-1", "answer": "D. Section 3.", "gold": "3.17 NECK DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.18-1", "answer": "Section 3.30 Sexual health education", "gold": "3.18 EYE DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.18-1", "answer": "D. Section 3.", "gold": "3.18 EYE DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.19-1", "answer": "Section 6.5 INFERTILITY", "gold": "3.19 EAR, NOSE AND THROAT DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.19-1", "answer": "A. Section 3.", "gold": "3.19 EAR, NOSE AND THROAT DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.19-2", "answer": "Section 1.37 Oral Health", "gold": "3.19 EAR, NOSE AND THROAT DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.19-2", "answer": "B. Section 3.", "gold": "3.19 EAR, NOSE AND THROAT DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.20-1", "answer": "Section 1.36 Conditions affecting the eyes", "gold": "3.20 ORAL HEALTH PROBLEMS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.20-1", "answer": "B. Section 3.", "gold": "3.20 ORAL HEALTH PROBLEMS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.21-1", "answer": "Section 5.30 Management of HIV/AIDS patients", "gold": "3.21 CHEST/HEART DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.21-1", "answer": "C. Section 3.", "gold": "3.21 CHEST/HEART DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.22-1", "answer": "Section 3.22 ABDOMINAL DISORDERS", "gold": "3.22 ABDOMINAL DISORDERS (INCLUDING HERNIAS)", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.22-1", "answer": "C", "gold": "3.22 ABDOMINAL DISORDERS (INCLUDING HERNIAS)", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.23-1", "answer": "This excerpt appears to be a combination of different sections related to various medical conditions and treatments. However, it specifically mentions \"Folic Acid,\" \"Ferrous", "gold": "3.23 ANAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.23-1", "answer": "A. Section 6.", "gold": "3.23 ANAL DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.24-1", "answer": "This excerpt appears to be a combination of sections related to various aspects of healthcare for different age groups, but it specifically mentions \"Urinary genital problems\" which would", "gold": "3.24 WORM INFESTATION", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.24-1", "answer": "C", "gold": "3.24 WORM INFESTATION", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.25-1", "answer": "Section 6.4 Family Planning", "gold": "3.25 URINARY AND GENITAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.25-1", "answer": "D. Section 3.", "gold": "3.25 URINARY AND GENITAL DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.26-1", "answer": "This excerpt appears to be a combination of sections from different titles within the provided table of contents. It includes elements related to specific medical conditions and treatments, which could", "gold": "3.26 ARM AND LEG DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.26-1", "answer": "B", "gold": "3.26 ARM AND LEG DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.27-1", "answer": "Section 2.30 CHANGES IN ALERTNESS AND BEHAVIOUR", "gold": "3.27 CHANGES IN ALERTNESS AND BEHAVIOUR", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.27-1", "answer": "A. Section 3.", "gold": "3.27 CHANGES IN ALERTNESS AND BEHAVIOUR", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.28-1", "answer": "Section 2.4 CONVULSION", "gold": "3.28 POISONING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.28-1", "answer": "C", "gold": "3.28 POISONING", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.29-1", "answer": "Section 2.34 School Health Services", "gold": "3.29 SCHOOL HEALTH SERVICES", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.29-1", "answer": "C", "gold": "3.29 SCHOOL HEALTH SERVICES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-3.30-1", "answer": "Section 4.7 Specific concerns about puberty", "gold": "3.30 SEXUALITY EDUCATION", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-3.30-1", "answer": "D. Section 3.", "gold": "3.30 SEXUALITY EDUCATION", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.1-1", "answer": "Section 6.6 PRE-MENOPAUSE", "gold": "4.1 ADOLESCENTS CONCERNS ABOUT PUBERTY", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.1-1", "answer": "B. Section 4.", "gold": "4.1 ADOLESCENTS CONCERNS ABOUT PUBERTY", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.2-1", "answer": "Section 4.4 SEXUAL DYSFUNCTIONS/MALFUNCTIONS", "gold": "4.2 ADOLESCENTS CONCERNS ABOUT PUBERTY", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.2-1", "answer": "B. Section 4.2", "gold": "4.2 ADOLESCENTS CONCERNS ABOUT PUBERTY", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.3-1", "answer": "Section 4.7.3 Alcoholism", "gold": "4.3 CONTRACEPTIVE CHOICE FOR ADOLESCENTS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.3-1", "answer": "C", "gold": "4.3 CONTRACEPTIVE CHOICE FOR ADOLESCENTS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.4-1", "answer": "Section 4.9 VIOLENCE ASSAULTIVE BEHAVIOURS AND SEXUAL ABUSE", "gold": "4.4 SEXUAL DYSFUNCTIONS/MALFUNCTIONS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.4-1", "answer": "A. Section 4.", "gold": "4.4 SEXUAL DYSFUNCTIONS/MALFUNCTIONS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.5-1", "answer": "Section 6.5 INFERTILITY", "gold": "4.5 GENITO-URINARY TRACT DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.5-1", "answer": "A. Section 4.", "gold": "4.5 GENITO-URINARY TRACT DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.6-1", "answer": "Section 4.6 ABORTION", "gold": "4.6 ABORTION", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.6-1", "answer": "A. Section 4.", "gold": "4.6 ABORTION", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.7.1-1", "answer": "Section 2.10 MALNUTRITION", "gold": "4.7.1 NUTRITION DISORDERS OF ADOLESCENT", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.7.1-1", "answer": "D. Section 4.", "gold": "4.7.1 NUTRITION DISORDERS OF ADOLESCENT", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.7.2-1", "answer": "Section 7.6 MENTAL DISORDERS", "gold": "4.7.2 DRUG AND SUBSTANCE ABUSE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.7.2-1", "answer": "C. Section 4.", "gold": "4.7.2 DRUG AND SUBSTANCE ABUSE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.7.3-1", "answer": "Section 4.7.3 Alcoholism", "gold": "4.7.3 ALCOHOLISM", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.7.3-1", "answer": "A. Section 4.", "gold": "4.7.3 ALCOHOLISM", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.8-1", "answer": "Section 4.9 VIOLENCE ASSAULTIVE BEHAVIOURS AND SEXUAL ABUSE", "gold": "4.8 MENTAL HEALTH DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.8-1", "answer": "B. Section 4.", "gold": "4.8 MENTAL HEALTH DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.9-1", "answer": "Section 4.9 VIOLENCE ASSAULTIVE BEHAVIOURS AND SEXUAL ABUSE", "gold": "4.9 VIOLENCE ASSAULTIVE BEHAVIOURS AND SEXUAL ABUSE", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.9-1", "answer": "C", "gold": "4.9 VIOLENCE ASSAULTIVE BEHAVIOURS AND SEXUAL ABUSE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.9-2", "answer": "Section 2.25 SEXUAL ASSAULT/ RAPE", "gold": "4.9 VIOLENCE ASSAULTIVE BEHAVIOURS AND SEXUAL ABUSE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.9-2", "answer": "B. Section 4.", "gold": "4.9 VIOLENCE ASSAULTIVE BEHAVIOURS AND SEXUAL ABUSE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.10.3-1", "answer": "Section 4.7.3 Alcoholism", "gold": "4.10.3 HIV/AIDS (MANAGEMENT OF PATIENT)", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.10.3-1", "answer": "B. Section 3.", "gold": "4.10.3 HIV/AIDS (MANAGEMENT OF PATIENT)", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.11-1", "answer": "Section 7.5 Specific problems of the elderly", "gold": "4.11 INJURIES, FRACTURES AND BITES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.11-1", "answer": "B", "gold": "4.11 INJURIES, FRACTURES AND BITES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.11-2", "answer": "Section 2.5 COUGH/DIFFICULT BREATHING", "gold": "4.11 INJURIES, FRACTURES AND BITES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.11-2", "answer": "D. Section 4.11 INJURIES, FRACTURES AND", "gold": "4.11 INJURIES, FRACTURES AND BITES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.12-1", "answer": "Section 2.20 Ear, Nose and Throat Disorders", "gold": "4.12 NECK DISORDERS/INJURIES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.12-1", "answer": "B. Section 2.", "gold": "4.12 NECK DISORDERS/INJURIES", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-4.13-1", "answer": "This excerpt appears to be a combination of sections from different parts of the document. It includes treatment advice for pain in the throat and inability to swallow, which could", "gold": "4.13 EAR, NOSE AND THROAT DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-4.13-1", "answer": "D", "gold": "4.13 EAR, NOSE AND THROAT DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.1-1", "answer": "Section 1.37 General Examination", "gold": "5.1 ADULT FIRST VISIT", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.1-1", "answer": "A", "gold": "5.1 ADULT FIRST VISIT", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.2-1", "answer": "Section 1.3.1 DIFFICULT BREATHING", "gold": "5.2 FEVER", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.2-1", "answer": "C. Section 5.", "gold": "5.2 FEVER", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.3-1", "answer": "Section 6.5 INFERTILITY", "gold": "5.3 COUGH", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.3-1", "answer": "C. Section 5.", "gold": "5.3 COUGH", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.4-1", "answer": "This excerpt appears to be a combination of various sections related to health issues and treatments. However, it can be categorized under:\n\nSection 2.6 DIARR", "gold": "5.4 DIFFICULTY IN BREATHING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.4-1", "answer": "C", "gold": "5.4 DIFFICULTY IN BREATHING", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.5-1", "answer": "Section 2.6 DIARRHOEA", "gold": "5.5 DIARRHOEA", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.5-1", "answer": "V.", "gold": "5.5 DIARRHOEA", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.6-1", "answer": "This excerpt appears to be from Section 2.6 VOMITING.", "gold": "5.6 VOMITING", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.6-1", "answer": "B. Section 3.", "gold": "5.6 VOMITING", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.7-1", "answer": "Section 6.5 INFERTILITY", "gold": "5.7 BODY PAIN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.7-1", "answer": "B. Section 5.", "gold": "5.7 BODY PAIN", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.8-1", "answer": "This excerpt appears to be a combination of sections from different titles, but it seems to focus on immediate care and diagnosis of various symptoms. It includes elements from:", "gold": "5.8 CHEST PAIN", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.8-1", "answer": "D", "gold": "5.8 CHEST PAIN", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.9-1", "answer": "Section 6.6 PRE-MENOPAUSE", "gold": "5.9 HEADACHE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.9-1", "answer": "C", "gold": "5.9 HEADACHE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.10-1", "answer": "Section 6.6 PRE-MENOPAUSE", "gold": "5.10 PALLOR", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.10-1", "answer": "C", "gold": "5.10 PALLOR", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.11-1", "answer": "Section 5.10 MENTAL HEALTH DISORDERS", "gold": "5.11 WEIGHT LOSS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.11-1", "answer": "B. Section 5.", "gold": "5.11 WEIGHT LOSS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.12-1", "answer": "Section 5.10 MENTAL HEALTH DISORDERS", "gold": "5.12 JAUNDICE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.12-1", "answer": "D. Section 5.", "gold": "5.12 JAUNDICE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.13-1", "answer": "Section 7.5 Specific problems of the elderly", "gold": "5.13 SKIN DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.13-1", "answer": "B. Section 5.", "gold": "5.13 SKIN DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.14-1", "answer": "Section 7.4 GASTROINTESTINAL DISORDERS", "gold": "5.14 OEDEMA", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.14-1", "answer": "C. Section 5.", "gold": "5.14 OEDEMA", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.15-1", "answer": "This excerpt does not appear to fit into any specific section mentioned in the provided table of contents. It seems to discuss various types of wounds, sores, ul", "gold": "5.15 BURNS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.15-1", "answer": "D. Section 5.", "gold": "5.15 BURNS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.16-1", "answer": "Section 2.16 WOUNDS, VARIOUS BITES, SPRAINS AND FRACTURES", "gold": "5.16 WOUNDS, SORES, ULCERS, FRACTURES & BITES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.16-1", "answer": "B", "gold": "5.16 WOUNDS, SORES, ULCERS, FRACTURES & BITES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.17-1", "answer": "Section 2.16 Wounds, various bites, sprains and fractures", "gold": "5.17 HEAD INJURIES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.17-1", "answer": "A. Section 5.", "gold": "5.17 HEAD INJURIES", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.18-1", "answer": "This excerpt appears to be a continuation of the instructions related to handling injuries and emergencies, specifically focusing on head injuries. Based on the content provided, it seems to", "gold": "5.18 NECK DISORDERS/INJURIES", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.18-1", "answer": "C. Section 2.", "gold": "5.18 NECK DISORDERS/INJURIES", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.19-1", "answer": "Section 2.19 EYE DISORDERS", "gold": "5.19 EYE DISORDERS", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.19-1", "answer": "A. Section 5.", "gold": "5.19 EYE DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.20-1", "answer": "Section 5.20 \"EAR, NOSE AND THROAT DISORDERS\"", "gold": "5.20 EAR, NOSE AND THROAT DISORDERS", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.20-1", "answer": "D", "gold": "5.20 EAR, NOSE AND THROAT DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.21-1", "answer": "Section 1.36 Conditions affecting the eyes", "gold": "5.21 ORAL HEALTH DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.21-1", "answer": "B", "gold": "5.21 ORAL HEALTH DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.22-1", "answer": "This excerpt appears to be a combination of sections from different parts of the document. It includes questions related to general health assessments (Section 2.1 \"Child", "gold": "5.22 CARDIOVASCULAR DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.22-1", "answer": "C. Section 5.", "gold": "5.22 CARDIOVASCULAR DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.23-1", "answer": "Section 7.5 Specific problems of the elderly", "gold": "5.23 ABNORMAL BLOOD PRESSURE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.23-1", "answer": "C. Section 4.5", "gold": "5.23 ABNORMAL BLOOD PRESSURE", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.23-2", "answer": "Section 7.4 GASTROINTESTINAL DISORDERS", "gold": "5.23 ABNORMAL BLOOD PRESSURE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.23-2", "answer": "B. Section 5.23 ABNORMAL BLOOD PRESSURE", "gold": "5.23 ABNORMAL BLOOD PRESSURE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.24-1", "answer": "Section 7. Specific problems of the elderly", "gold": "5.24 ABDOMINAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.24-1", "answer": "D. Section 5.", "gold": "5.24 ABDOMINAL DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.25-1", "answer": "Section 2.26 URINARY AND GENITAL DISORDERS", "gold": "5.25 WORM INFESTATION", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.25-1", "answer": "B. Section 5.", "gold": "5.25 WORM INFESTATION", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.26-1", "answer": "Section 6.4 Family Planning", "gold": "5.26 GENITO-URINARY DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.26-1", "answer": "D. Section 5.", "gold": "5.26 GENITO-URINARY DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.27-1", "answer": "Section 7.5 Specific problems of the elderly", "gold": "5.27 UPPER AND LOWER LIMBS DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.27-1", "answer": "C. Section 5.", "gold": "5.27 UPPER AND LOWER LIMBS DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.28-1", "answer": "This excerpt appears to be from Section 2.10 MALNUTRITION.", "gold": "5.28 MENTAL HEALTH DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.28-1", "answer": "D. Section 5.", "gold": "5.28 MENTAL HEALTH DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.29-1", "answer": "Section 2.31 POISONING", "gold": "5.29 POISONING", "number_ok": 0.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.29-1", "answer": "A. Section 5.", "gold": "5.29 POISONING", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.30-1", "answer": "Section 2.25 SEXUAL ASSAULT/ RAPE", "gold": "5.30 MANAGEMENT OF HIV/AIDS PATIENTS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.30-1", "answer": "D. Section 2.", "gold": "5.30 MANAGEMENT OF HIV/AIDS PATIENTS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.30-2", "answer": "Section 2.26 SEXUAL ASSAULT/ RAPE", "gold": "5.30 MANAGEMENT OF HIV/AIDS PATIENTS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.30-2", "answer": "B. Section 5.", "gold": "5.30 MANAGEMENT OF HIV/AIDS PATIENTS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-5.30-3", "answer": "Section 6.1 PRENATAL (ANTENATAL) CARE", "gold": "5.30 MANAGEMENT OF HIV/AIDS PATIENTS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-5.30-3", "answer": "C. Section 5.", "gold": "5.30 MANAGEMENT OF HIV/AIDS PATIENTS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.1-1", "answer": "Section 6.1 PRENATAL (ANTENATAL) CARE", "gold": "6.1 PRENATAL (ANTENATAL) CARE", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.1-1", "answer": "C", "gold": "6.1 PRENATAL (ANTENATAL) CARE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.1-2", "answer": "Section 6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "gold": "6.1 PRENATAL (ANTENATAL) CARE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.1-2", "answer": "C. Section 3.", "gold": "6.1 PRENATAL (ANTENATAL) CARE", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.1-3", "answer": "Section 6.4 Family Planning", "gold": "6.1 PRENATAL (ANTENATAL) CARE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.1-3", "answer": "C", "gold": "6.1 PRENATAL (ANTENATAL) CARE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.1-4", "answer": "Section 6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "gold": "6.1 PRENATAL (ANTENATAL) CARE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.1-4", "answer": "B. Section 6.", "gold": "6.1 PRENATAL (ANTENATAL) CARE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.2-1", "answer": "Section 6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "gold": "6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "number_ok": 1.0, "title_ok": 1.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.2-1", "answer": "C", "gold": "6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.2-2", "answer": "Section 6.6 PRE-MENOPAUSE", "gold": "6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.2-2", "answer": "B. Section 6.", "gold": "6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.3-1", "answer": "Section 1.3.12 Conditions affecting baby's breast", "gold": "6.3 POSTNATAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.3-1", "answer": "B. Section 4.", "gold": "6.3 POSTNATAL DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.3-2", "answer": "Section 6.6 PRE-MENOPAUSE", "gold": "6.3 POSTNATAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.3-2", "answer": "A", "gold": "6.3 POSTNATAL DISORDERS", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.4-1", "answer": "Section 6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "gold": "6.4 FAMILY PLANNING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.4-1", "answer": "B. Section 3.", "gold": "6.4 FAMILY PLANNING", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.4-2", "answer": "Section 6.6 PRE-MENOPAUSE", "gold": "6.4 FAMILY PLANNING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.4-2", "answer": "A. Section 6.", "gold": "6.4 FAMILY PLANNING", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.4-3", "answer": "Section 6.5 INFERTILITY", "gold": "6.4 FAMILY PLANNING", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.4-3", "answer": "B. Section 3.", "gold": "6.4 FAMILY PLANNING", "mcq_ok": 0.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.5-1", "answer": "Section 4.7.2 Drug and substance abuse", "gold": "6.5 INFERTILITY", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.5-1", "answer": "D. Section 6.", "gold": "6.5 INFERTILITY", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-6.6-1", "answer": "Section 7.5 Specific problems of the elderly", "gold": "6.6 PRE-MENOPAUSE", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-6.6-1", "answer": "D. Section 6.", "gold": "6.6 PRE-MENOPAUSE", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-7.1-1", "answer": "Section 7.5 Specific problems of the elderly", "gold": "7.1 MUSCULO - SKELETAL SYSTEM DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-7.1-1", "answer": "A.", "gold": "7.1 MUSCULO - SKELETAL SYSTEM DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-7.2-1", "answer": "Section 7.6 MENTAL DISORDERS", "gold": "7.2 CARDIOVASCULAR SYSTEM DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-7.2-1", "answer": "B. Section 7.2 CARDIOVASCULAR SYSTEM DISORDERS", "gold": "7.2 CARDIOVASCULAR SYSTEM DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-7.3-1", "answer": "Section 2.6 DIARRHOEA", "gold": "7.3 GENITO- URINARY DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-7.3-1", "answer": "B. Section 7.", "gold": "7.3 GENITO- URINARY DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-7.4-1", "answer": "Section 2.6 DIARRHOEA", "gold": "7.4 GASTROINTESTINAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-7.4-1", "answer": "C. Section 7.", "gold": "7.4 GASTROINTESTINAL DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-7.5-1", "answer": "Section 7.6 MENTAL DISORDERS", "gold": "7.5 SPECIFIC PROBLEMS OF THE ELDERLY", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-7.5-1", "answer": "A. Section 7.", "gold": "7.5 SPECIFIC PROBLEMS OF THE ELDERLY", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-7.6-1", "answer": "Section 5.29 POISONING", "gold": "7.6 MENTAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-7.6-1", "answer": "B. Section 7.", "gold": "7.6 MENTAL DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-7.7-1", "answer": "Section 6.2 MATERNAL HEALTH (LABOUR AND DELIVERY)", "gold": "7.7 ORAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-7.7-1", "answer": "B. Section 7.7", "gold": "7.7 ORAL DISORDERS", "mcq_ok": 1.0}
+{"task": "index", "doc": "CHEW", "id": "IX-CHEW-7.7-2", "answer": "Section 5.15 Wounds, Sores, Ulcers, Fractures & Bites", "gold": "7.7 ORAL DISORDERS", "number_ok": 0.0, "title_ok": 0.0}
+{"task": "mcq", "doc": "CHEW", "id": "MC-CHEW-7.7-2", "answer": "D. Section 2.", "gold": "7.7 ORAL DISORDERS", "mcq_ok": 0.0}
