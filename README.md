@@ -75,6 +75,9 @@ as a metric (`source_ok`), with retrieval of the matching chunk as the planned s
 * **Demo + safety layer**: [`serve/space/`](serve/space), Gradio on a free CPU Space; uses the GPU API
   when available, otherwise the GGUF on CPU. A red-flag list forces `ACTION: URGENT` for danger signs.
   Deploy with [`serve/deploy_space.py`](serve/deploy_space.py).
+* **Free live demo**: [`notebooks/07_demo.ipynb`](notebooks/07_demo.ipynb) runs the fine-tuned model on a Kaggle T4
+  behind a temporary Gradio share link (same safety layer), saved to `ilera-data/demo/share_url.txt`. Hugging Face
+  now requires PRO for Gradio Spaces on free CPU, so `serve/space/` deploys only with PRO.
 * **API docs**: [`docs/API.md`](docs/API.md).
 
 ## Data sources
