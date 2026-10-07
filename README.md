@@ -69,6 +69,32 @@ on its own, even with the table of contents in front of it. Ilera-ATLAS therefor
 answers that always end with the exact `SOURCE:` section and (2) is evaluated with the cited section
 as a metric (`source_ok`), with retrieval of the matching chunk as the planned stretch.
 
+## Results: Ilera-ATLAS vs raw N-ATLaS (frozen Ilera-Bench)
+
+Chosen model: `ilera-atlas-lora-runB` (QLoRA r=16, 2 epochs, 1,058 examples; picked over the 3-epoch run on the
+validation set for its lower under-referral). Benchmark frozen before training (SHA-256 in [`bench/`](bench)).
+Paired bootstrap, 95% CI; all differences below are significant.
+
+| Metric (496 items: 196 en + 150 ha + 150 yo) | Raw N-ATLaS | **Ilera-ATLAS** | Difference [95% CI] |
+|---|---|---|---|
+| Correct action (TREAT / REFER / URGENT) | 1.8% | **65.3%** | +63.5 [+59.5, +67.7] |
+| Correct action, lenient (action inferred from free text) | 26.4% | **65.3%** | +38.9 [+33.3, +44.8] |
+| **Under-referral** (dangerous error), strict | 98.2% | **18.5%** | -79.6 [-83.3, -76.2] |
+| Under-referral, lenient | 55.8% | **18.5%** | -37.3 [-42.5, -32.5] |
+| Answer format valid | 8.3% | **99.6%** | +91.3 |
+| Key-fact recall | 5.9% | **23.0%** | +17.1 [+14.7, +19.6] |
+| Cites the correct Standing Orders section | 0.0% | **24.6%** | +24.6 [+21.0, +28.4] |
+| Answers in the question's language | 80.8% (Yoruba 47.3%) | **100%** | +19.2 |
+
+Per language, correct action: English 66.3%, Hausa 69.3%, Yoruba 60.0%. Unseen-section probe (9 items):
+77.8% vs 0%. External AfriMed-QA multiple choice (300, general medicine): 38.0% vs 41.7% base, a small,
+non-significant drop: the model specialises in the Standing Orders. Full tables in [`results/`](results).
+
+**Limitations.** Small training set (1,113 examples, AI-assisted review), English benchmark below the
+planned 300 items, AI-assisted (not yet fully clinician-verified) review of data and translations, and a
+blind clinical review of 150 answer pairs pending. The model can produce clinically inappropriate steps
+(e.g. IV medicines outside CHEW scope): it is decision support for trained workers only.
+
 ## Serving (free tiers)
 
 * **GPU API**: [`serve/modal_app.py`](serve/modal_app.py), vLLM on one L4, scales to zero (Modal free credits).
