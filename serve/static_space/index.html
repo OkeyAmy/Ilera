@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ilera-ATLAS</title>
+<style>
+  html, body {margin: 0; height: 100%; background: #f6faf8; font-family: system-ui, sans-serif;}
+  #bar {display: flex; gap: 12px; align-items: center; padding: 6px 14px; background: #0b6e4f; color: #fff; font-size: 14px;}
+  #bar a {color: #fff;}
+  #msg {padding: 40px 20px; text-align: center; color: #234;}
+  iframe {border: 0; width: 100%; height: calc(100% - 34px); display: none;}
+</style>
+</head>
+<body>
+<div id="bar"><b>🩺 Ilera-ATLAS</b><span id="status">Finding the live demo…</span><a id="open" href="#" target="_blank" hidden>Open in a new tab</a></div>
+<div id="msg"></div>
+<iframe id="app" title="Ilera-ATLAS demo" allow="clipboard-write"></iframe>
+<script>
+fetch("link.txt?t=" + Date.now()).then(r => r.text()).then(t => {
+  const url = (t.match(/https:\/\/\S+\.gradio\.live/) || [])[0];
+  if (!url) throw new Error("no link");
+  document.getElementById("app").src = url;
+  document.getElementById("app").style.display = "block";
+  const a = document.getElementById("open"); a.href = url; a.hidden = false;
+  document.getElementById("status").textContent = "Decision support for trained health workers · answers take ~30 s";
+}).catch(() => {
+  document.getElementById("status").textContent = "";
+  document.getElementById("msg").textContent = "The demo is restarting. Please reload this page in 10 minutes.";
+});
+</script>
+</body>
+</html>

@@ -98,12 +98,14 @@ blind clinical review of 150 answer pairs pending. The model can produce clinica
 ## Serving (free tiers)
 
 * **GPU API**: [`serve/modal_app.py`](serve/modal_app.py), vLLM on one L4, scales to zero (Modal free credits).
-* **Demo + safety layer**: [`serve/space/`](serve/space), Gradio on a free CPU Space; uses the GPU API
-  when available, otherwise the GGUF on CPU. A red-flag list forces `ACTION: URGENT` for danger signs.
-  Deploy with [`serve/deploy_space.py`](serve/deploy_space.py).
-* **Free live demo**: [`notebooks/07_demo.ipynb`](notebooks/07_demo.ipynb) runs the fine-tuned model on a Kaggle T4
-  behind a temporary Gradio share link (same safety layer), saved to `ilera-data/demo/share_url.txt`. Hugging Face
-  now requires PRO for Gradio Spaces on free CPU, so `serve/space/` deploys only with PRO.
+* **Live demo (free, always on)**: [huggingface.co/spaces/Emmanuel-okoye/ilera-atlas](https://huggingface.co/spaces/Emmanuel-okoye/ilera-atlas),
+  a free static Space ([`serve/static_space/`](serve/static_space)) that always opens the current demo.
+  The demo itself is [`notebooks/07_demo.ipynb`](notebooks/07_demo.ipynb): the Q4_K_M GGUF in llama.cpp on a free
+  Kaggle CPU session (no GPU quota, ~35 s per answer) behind a Gradio share link, with the chat page
+  [`serve/space/ui.py`](serve/space/ui.py) and the red-flag safety layer. It restarts itself every ~11.5 h and
+  writes the new link to the static Space.
+* **ZeroGPU Space** (when the account can host ZeroGPU, or with PRO): [`serve/space/`](serve/space), the merged model on a
+  shared GPU, same UI, plus an `/answer` API. Deploy with [`serve/deploy_space.py`](serve/deploy_space.py).
 * **API docs**: [`docs/API.md`](docs/API.md).
 
 ## Data sources
