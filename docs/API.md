@@ -7,6 +7,27 @@ Two ways to call Ilera-ATLAS. Both use N-ATLaS fine-tuned on Nigeria's 2024 Nati
 | **GPU API** (Modal, vLLM, OpenAI-compatible) | fast (first call after idle: 1–3 min cold start) | no: raw model | `Authorization: Bearer <API key>` |
 | **Demo Space API** (Gradio) | slower on CPU fallback | **yes**: red-flag override + notice | Hugging Face token while the Space is private |
 
+## 0. Live API (free, always on) — try this first
+
+The public demo runs Ilera-ATLAS (Q4_K_M GGUF, llama.cpp) on a free Kaggle CPU behind a Gradio app, with the
+red-flag safety layer. The session restarts itself every ~11.5 h with a new Gradio URL, which is always published at
+`https://huggingface.co/spaces/Emmanuel-okoye/ilera-atlas/resolve/main/link.txt`. Answers take 30–100 s on CPU.
+
+```python
+# pip install gradio_client
+import urllib.request
+from gradio_client import Client
+
+url = urllib.request.urlopen("https://huggingface.co/spaces/Emmanuel-okoye/ilera-atlas/resolve/main/link.txt").read().decode().split()[0]
+client = Client(url, httpx_kwargs={"timeout": 300})
+_, history = client.predict("A pregnant woman at 32 weeks has a severe headache and blurred vision.", [], api_name="/user_turn")
+history = client.predict(history, api_name="/bot_turn")
+print(history[-1]["content"][0]["text"])     # Markdown answer card: action, steps, danger signs, source
+```
+
+Endpoints: `/user_turn(message, history) -> ("", history)` adds the question; `/bot_turn(history) -> history` appends the
+answer (safety layer applied). The page's own "Use via API" link lists them too.
+
 ## Answer format
 
 Every answer follows this contract (labels always in English, content in the question's language):
