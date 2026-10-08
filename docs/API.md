@@ -56,7 +56,7 @@ Parse the action with `re.search(r"ACTION:\s*(TREAT|REFER|URGENT)", text)`.
 from gradio_client import Client
 
 c = Client("<you>/ilera-atlas-demo", hf_token="hf_...")   # hf_token only needed while the Space is private
-print(c.predict("A pregnant woman has a severe headache and blurred vision.", api_name="/chat"))
+print(c.predict("A pregnant woman has a severe headache and blurred vision.", api_name="/answer"))
 ```
 
 ## Limits and responsible use

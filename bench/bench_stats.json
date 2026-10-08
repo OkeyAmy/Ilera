@@ -1,0 +1,16 @@
+{
+  "items": 505,
+  "by_subset_lang": {
+    "main/en": 196,
+    "main/ha": 150,
+    "main/yo": 150,
+    "probe/en": 9
+  },
+  "gold_action": {
+    "URGENT": 211,
+    "TREAT": 203,
+    "REFER": 91
+  },
+  "afrimedqa": 300,
+  "afrimedqa_source": "https://raw.githubusercontent.com/intron-innovation/AfriMed-QA/master/data/afri_med_qa_15k_v2.5_phase_2_15275.csv"
+}
