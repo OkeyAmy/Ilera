@@ -155,6 +155,8 @@ def build_demo(respond, title="Ilera-ATLAS"):
                 yield history
                 return
             question = history[-1]["content"]
+            if isinstance(question, list):        # Gradio 6: [{"type": "text", "text": ...}, ...]
+                question = " ".join(p.get("text", "") for p in question if isinstance(p, dict)).strip()
             history = history + [{"role": "assistant", "content": "⏳ *Reading the Standing Orders…*"}]
             yield history
             for text, final, flag in respond(question):
