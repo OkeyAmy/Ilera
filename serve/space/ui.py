@@ -94,7 +94,7 @@ def render(answer, flag=None):
     if steps and steps.group(1).strip():
         lines = [l.strip() for l in steps.group(1).strip().splitlines() if l.strip()]
         parts.append("**What to do**\n\n" + "\n".join(lines))
-    if danger and danger.group(1).strip().lower().rstrip(".") not in ("none listed", "none", "babu", ""):
+    if danger and danger.group(1).strip().lower().rstrip(".") not in ("none listed", "none", "babu", "kò sí èyí tí a kọ sílẹ̀", ""):
         parts.append(f"**⚠️ Danger signs:** {danger.group(1).strip()}")
     if source:
         parts.append(f"📖 *{source.group(1).strip()}*")
