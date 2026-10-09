@@ -21,7 +21,7 @@ training data, which humans then review.
 ## Project Resources
 
 - **Demo:** [Watch the Project Demo](https://drive.google.com/file/d/1gRrnaHRPRFLZPPwQc6IQM7kP95-Ln_Jq/view?usp=sharing)
-- **Dataset:** [View the Ilẹ̀rà Dataset on Hugging Face](https://huggingface.co/datasets/Emmanuel-okoye/ilera-data)
+- **Dataset:** [View the Ilera Dataset on Hugging Face](https://huggingface.co/datasets/Emmanuel-okoye/ilera-data)
 
 
 ## Pipeline
