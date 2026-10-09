@@ -18,6 +18,8 @@ The model is a QLoRA adapter on [NCAIR1/N-ATLaS](https://huggingface.co/NCAIR1/N
 No other foundation model is used anywhere in the pipeline: N-ATLaS also drafts and translates the
 training data, which humans then review.
 
+[![Watch Demo](https://img.shields.io/badge/▶-Watch%20Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1gRrnaHRPRFLZPPwQc6IQM7kP95-Ln_Jq/view?usp=sharing)
+
 ## Pipeline
 
 | Step | Notebook | Runs on | Output (Hugging Face dataset `ilera-data`) |
